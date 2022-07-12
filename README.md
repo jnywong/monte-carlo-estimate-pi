@@ -153,14 +153,13 @@ Project Link -  [https://github.com/jnywong/monte-carlo-estimate-pi](https://git
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-<!-- ## Acknowledgments -->
+<!--ACKNOWLEDGMENTS -->
+## Acknowledgments
 
-<!-- * []()
-* []()
-* []() -->
+* [Geeksforgeeks](https://www.geeksforgeeks.org/estimating-value-pi-using-monte-carlo/)
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
-<!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
