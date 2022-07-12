@@ -1,3 +1,5 @@
+#%%
+
 import random
 import matplotlib.pyplot as plt
  
@@ -6,7 +8,7 @@ INTERVAL = 100
 circle_points = 0
 square_points = 0
 
-fig = plt.figure()
+fig = plt.figure(figsize=(10,10))
 ax = fig.add_subplot(111)
 
 # Total Random numbers generated= possible x
@@ -52,4 +54,4 @@ plt.text(-1,
         r"$\pi \approx 4N_c/N_s=${:.5f}".format(circle_points, square_points, pi),
         va="top")
 
-plt.savefig("estimate-pi.png", dpi=300, format="png")
+plt.savefig("estimate-pi.png", dpi=300, format="png", bbox_inches="tight", )

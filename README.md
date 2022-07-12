@@ -29,9 +29,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <!-- <a href="https://github.com/jnywong/monte-carlo-estimate-pi">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a> -->
+  <a href="https://github.com/jnywong/monte-carlo-estimate-pi">
+    <img src="estimate-pi.png" alt="Logo" width="180" height="180">
+  </a>
 
 <h3 align="center">monte-carlo-estimate-pi</h3>
 
