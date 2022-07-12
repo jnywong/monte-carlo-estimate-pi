@@ -86,6 +86,26 @@
 
 This is a small project that uses the Monte Carlo method to estimate $\pi$.
 
+### Method
+
+The area of a circle is 
+
+$$
+A_c = \pi r^2.
+$$
+
+The area of a square enclosing the circle is
+
+$$
+A_s = (2r)^2 = 4 r^2.
+$$
+
+We estimate $\pi$ by looking at the ratio between these two areas:
+
+$$
+\frac{A_c}{A_s} = \frac{\pi r^2}{4 r^2} \Rightarrow \pi \approx4\frac{A_c}{A_s}.
+$$
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
