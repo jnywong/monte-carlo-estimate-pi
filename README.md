@@ -121,8 +121,9 @@ This code requires Python 3.
 Run the code using
 
 ```shell
-python3 estimate-pi.py
+python3 estimate-pi.py <num_points>
 ```
+where `num_points` is the number of points to be used in the estimation.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
